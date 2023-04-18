@@ -1,3 +1,3 @@
 ﻿# Databases
 
-SQLite was used for the database. The repository contains my project of a Minecraft database and a exam solution.
+We we were tasked to create a database with SQLite. The repository contains my project of a Minecraft database and an exam solution.
